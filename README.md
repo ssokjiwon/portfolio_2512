@@ -13,7 +13,8 @@
 - 질문 역번역 증강
 
 ## 📷 실행 화면
-(스크린샷 첨부)
+<img width="543" height="182" alt="image" src="https://github.com/user-attachments/assets/ffaf8f86-c7de-49f5-a529-44dc1e615649" />
+
 
 ## ✍ 느낀 점
 질문들을 증강하게 되어서 데이터의 양을 늘릴 수 있게 되어서 좋았따
